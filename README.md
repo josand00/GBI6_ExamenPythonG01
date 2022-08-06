@@ -23,8 +23,23 @@ Tipo de sistema	Sistema operativo de 64 bits, procesador x64
 
 Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
 
-## versión 
+## Versión 
 Python versión --3.9.12
+
+## Módulo
+-miningscience_g01
+# funciones
+  -download_pubmed
+
+   -science_plots
+
+## Paquetes/librerias
+-Pandas
+-matplotlib
+-Entrez
+-SeqIO
+-GenBank
+-re
 
 
 
